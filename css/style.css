@@ -16,4 +16,6 @@ figcaption{
   font-weight: bold;
   font-size: 2.6em;
   font-family: "Else Swash Caps",cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
 }
