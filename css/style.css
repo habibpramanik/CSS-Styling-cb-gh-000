@@ -2,3 +2,8 @@ p{
   font-size: 1em;
   line-height: 1.5em;
 }
+figcaption{
+  font-size: 0.75em;
+  font-weight: normal;
+  font-family: Georgia, "New Times Roman", serif;
+}
